@@ -1,0 +1,21 @@
+.login-page, .home-page, .chatbot-page, .translator-page, .faq-page, .about-page {
+  padding: 20px;
+}
+
+.login-page input, .login-page button {
+  display: block;
+  margin: 10px 0;
+}
+
+.services a {
+  display: block;
+  margin: 10px 0;
+}
+
+.fruit-card {
+  cursor: pointer;
+}
+
+.faq-item {
+  margin-bottom: 10px;
+}
